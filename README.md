@@ -17,3 +17,6 @@ Este curso consta de 13 videos que explican los conceptos fundamentales del apre
 13. [Introducción Aprendizaje por Refuerzo - Parte 13: Práctica Open IA Gym Algoritmos Diferencia Temporal](https://youtu.be/zKy2XfYDPEM?si=3P9iIrkPJ8AGXn5s)
 
 ¡Esperamos que disfrutes este curso y que sea útil para tu aprendizaje sobre el aprendizaje por refuerzo!
+
+# Aprendizaje-Reforzado
+Algoritmos de aprendizaje reforzado aplicado a inteligencia artificial 
